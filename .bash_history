@@ -22,3 +22,5 @@ ls
 pwd
 cat file2
 cat > file1
+clear
+exit
