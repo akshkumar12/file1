@@ -24,3 +24,14 @@ cat file2
 cat > file1
 clear
 exit
+clear
+pwd
+ls
+ls -a
+git status
+git add .
+git commit -m "second commit" .
+git log
+git status
+git remote add origin https://github.com/akshkumar12/file1.git
+git push origin master
